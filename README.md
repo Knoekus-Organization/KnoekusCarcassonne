@@ -1,7 +1,7 @@
 # Knoekus Carcassonne
 Digital version of the German board game Carcassonne.
 
-Cool that you have downloaded Knoekus Carcassonne, my digital implementation of the German board game Carcassonne.
+Cool that you have downloaded Knoekus Carcassonne, my digital implementation of the German board game Carcassonne. If you enjoy it, it would be awesome if you supported me by buying me a coffee on https://www.buymeacoffee.com/knoekus! :)
 
 ----Installing----
 The game is made in MATLAB R2021b. Therefore, if you don't own this version of MATLAB or a later one, you will have to install MATLAB Runtime.
