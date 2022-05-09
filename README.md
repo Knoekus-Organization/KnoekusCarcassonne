@@ -10,3 +10,6 @@ If you have previously installed a version of Knoekus Carcassonne, please instal
 
 ## Wiki
 The game has a built in How To Play section, but the Wiki in this repo will be updated, too. For a full overview of all rules (including all expansions) can be found on the [Wikicarpedia website](https://wikicarpedia.com/index.php/Main_Page).
+
+## License
+This program is licensed using the [GNU GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.html).
